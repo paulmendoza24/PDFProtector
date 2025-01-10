@@ -49,4 +49,4 @@ Simple User Interface: The app provides a simple and intuitive interface to brow
   * If any required images are missing, an error message will be displayed.
   * If the PDF file is not properly selected or the password is incorrect, error messages will appear to guide you.
 ## Screenshot:
-  ![PDFProtector](images\ss.png)
+  ![PDFProtector](images/ss.png)

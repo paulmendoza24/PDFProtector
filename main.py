@@ -1,3 +1,9 @@
+'''
+======= CREATED BY PAUL MENDOZA =======
+======= PYTHON 3.12.7 =======
+'''
+
+
 from tkinter import *
 from tkinter import filedialog, simpledialog
 from tkinter import messagebox

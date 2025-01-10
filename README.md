@@ -30,7 +30,8 @@ Simple User Interface: The app provides a simple and intuitive interface to brow
   * `remove_password_image.png` (icon for the Remove Password button)
   * `remove_pass.png` (icon for removing the password from PDF)
 3. Run the Python script:
-    python pdf_protector.py
+
+       python pdf_protector.py
 ## Usage: 
 ### Protect PDF with Password:
 1. Click on the "Browse" button to select the source PDF file you want to protect.
